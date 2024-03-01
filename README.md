@@ -1,2 +1,3 @@
 # odin_recipes
-Odin Project: Recipes
+Project: Recipes
+Odin Project 41% complete
